@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🎧 VibeSync</h1>
-<p align="center">AI-powered Mood-Based <b>Music</b> + <b>Code</b> Recommender 🎶💻</p>
+<p align="center">AI-powered Mood-Based <b>Music</b> + <b>Quote</b> Recommender 🎶💻</p>
 
 ---
 
