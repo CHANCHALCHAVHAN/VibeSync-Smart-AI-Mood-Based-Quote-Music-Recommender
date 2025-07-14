@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VibeSync | Mood-Based Music & Quotes</title>
+  <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="vibesync-title">VibeSync</h1>
+    <p class="tagline">Let your emotions find the right rhythm 🎵</p>
+
+    <div class="input-section">
+      <input type="text" id="mood" placeholder="How are you feeling today?" />
+      <button onclick="getRecommendations()">Get Recommendations</button>
+    </div>
+
+    <div id="result-section" class="result-section" style="display: none;">
+      <h2>Your Vibe:</h2>
+      <div id="music-link"></div>
+      <div id="quote" class="quote-box"></div>
+      <div id="affirmation" class="affirmation-box"></div>
+      <div id="emoji" class="emoji"></div>
+    </div>
+
+    <div class="mood-guide">
+      <h3>How it Works ✨:</h3>
+      <p>Enter your mood and receive soothing music, powerful quotes, and positive affirmations crafted for your emotional journey!</p>
+    </div>
+
+    <footer class="footer">
+      <p>&copy; 2025 VibeSync. All rights reserved.</p>
+    </footer>
+  </div>
+
+  <script src="../static/app.js"></script>
+</body>
+</html>
