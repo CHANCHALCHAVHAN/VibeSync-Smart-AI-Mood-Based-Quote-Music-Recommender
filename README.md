@@ -97,7 +97,7 @@ git push origin feature/AmazingFeature
 ## Output
 
 <p align="center">
-  <img src="interface-preview.png" width="600" alt="VibeSync UI Preview" />
+  <img src="Screenshot 2025-07-14 133422.png" width="600" alt="VibeSync UI Preview" />
 </p>
 
 
